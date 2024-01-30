@@ -1,3 +1,4 @@
+
 const mylocation = () => {
     const status = document.querySelector(".status");
     const succses = (position) => {
@@ -5,6 +6,7 @@ const mylocation = () => {
         let latitude = position.coords.latitude;
         let longitude = position.coords.longitude
         initMap(latitude, longitude);
+        const cordinats = document.querySelector(".cordinats").innerHTML = `latitude:${latitude}  longitude:${longitude}`
     }
     const error = () => {
         status.textContent = "misamarti araa"
