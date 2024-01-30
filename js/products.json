@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "პურის ფქვილი",
+        "price": 50,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 2,
+        "name": "პურის ფქვილი",
+        "price": 250,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 3,
+        "name": "პურის ფქვილი",
+        "price": 290,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 4,
+        "name": "პურის ფქვილი",
+        "price": 50,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 5,
+        "name": "პურის ფქვილი",
+        "price": 300,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 6,
+        "name": "პურის ფქვილი",
+        "price": 50,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 7,
+        "name": "პურის ფქვილი",
+        "price": 50,
+        "image": "image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 8,
+        "name": "პურის ფქვილი",
+        "price": 50,
+        "image": "/image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 9,
+        "name": " პურის ფქვილი",
+        "price": 50,
+        "image": "/image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 10,
+        "name": " პურის ფქვილი",
+        "price": 50,
+        "image": "/image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    },
+    {
+        "id": 11,
+        "name": "პურის ფქვილი ",
+        "price": 50,
+        "image": "/image/ck-bakers-golde001.jpg",
+        "status": "უმაღლესი ხარისხი"
+    }
+]

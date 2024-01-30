@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ka" >
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Simple Marker</title>
+    <!-- The callback parameter is required, so we use console.debug as a noop -->
+    <!-- <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAasgwlxo7C0N7g6_PBBUnuie7jZnqkkvs&callback=console.debug&libraries=maps,marker&v=beta"> -->
+    </script>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      gmp-map {
+        height: 100%;
+      }
+
+      /* Optional: Makes the sample page fill the window. */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="status"></h1>
+    <button title="button" id="getlocation">      
+    </button>
+    <!-- <gmp-map center="41.693965911865234,44.801448822021484" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="41.693965911865234,44.801448822021484" title="My location"></gmp-advanced-marker>
+    </gmp-map> -->
+    <script src="./js/location.js"></script>
+    <!-- <script>
+        function initMAP() {
+            
+        }
+
+    </script> -->
+  </body>
+</html>
